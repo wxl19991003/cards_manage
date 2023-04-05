@@ -79,12 +79,7 @@ def card_op(found_dic):
 
 
 def input_func(old_dic, tip_mess):
-    """
 
-    :param old_dic:
-    :param tip_mess:
-    :return:
-    """
     value_input = input(tip_mess)
     if len(value_input) > 0:
         return value_input

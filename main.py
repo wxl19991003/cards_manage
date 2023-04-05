@@ -1,4 +1,3 @@
-# TODO (wxl) 框架
 import cards_tools
 
 while True:
